@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Update 1-12-16</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
+</item>
+<item>
+<title>DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
+</item>
+<item>
+<title>CARTOON NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK </link>
+</item>
+<item>
+<title>CANAL PANDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
+</item>
+<item>
+<title>PANDA BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS </link>
+</item>
+<item>
+<title>JIM JAM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
+</item>
+<item>
+<title>NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
+</item>
+<item>
+<title>SIC K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
+</item>
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
+</item>
+<item>
+<title>BABY FIRST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST </link>
+</item>

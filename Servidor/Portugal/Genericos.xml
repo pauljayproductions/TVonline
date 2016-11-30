@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Update 1-12-16</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
+</item>
+<item>
+<title>RTP 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 FHD </link>
+</item>
+<item>
+<title>RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
+</item>
+<item>
+<title>RTP 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 FHD </link>
+</item>
+<item>
+<title>SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+</item>
+<item>
+<title>SIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC FHD </link>
+</item>
+<item>
+<title>TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+</item>
+<item>
+<title>TVI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FHD </link>
+</item>
+<item>
+<title>RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
+</item>

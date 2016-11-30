@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Update 1-12-16</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>SUNDANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE </link>
+</item>
+<item>
+<title>SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
+</item>
+<item>
+<title>TRACE URBAN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN HD </link>
+</item>
+<item>
+<title>MTV PORTUGAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
+</item>
+<item>
+<title>MTV ROCKS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS </link>
+</item>
+<item>
+<title>MTV MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC </link>
+</item>
+<item>
+<title>MTV DANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE </link>
+</item>
+<item>
+<title>MCM POP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP </link>
+</item>
+<item>
+<title>TRACE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV </link>
+</item>
+<item>
+<title>VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
+</item>
+<item>
+<title>VH1 CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC </link>
+</item>
+<item>
+<title>C-MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC </link>
+</item>
+<item>
+<title>iCONCERTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=iCONCERTS </link>
+</item>
+<item>
+<title>VIRGIN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV </link>
+</item>
+<item>
+<title>AFRO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO TV </link>
+</item>
+<item>
+<title>MEZZO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO </link>
+</item>

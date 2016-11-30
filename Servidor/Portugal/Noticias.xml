@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Update 1-12-16</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
+</item>
+<item>
+<title>TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
+</item>
+<item>
+<title>RTP INTERNACIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL </link>
+</item>
+<item>
+<title>ARTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV </link>
+</item>
+<item>
+<title>RECORD NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS </link>
+</item>
+<item>
+<title>EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS </link>
+</item>
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN </link>
+</item>
+<item>
+<title>BBC WORLD NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS </link>
+</item>
+<item>
+<title>CUBAVISION INTERNATIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUBAVISION INTERNATIONAL </link>
+</item>
+<item>
+<title>TV GALICIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA </link>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 </link>
+</item>
+<item>
+<title>TV5 MONDE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE </link>
+</item>
+<item>
+<title>DEUTSCHE WELLE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEUTSCHE WELLE </link>
+</item>
+<item>
+<title>BLOOMBERG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG </link>
+</item>
+<item>
+<title>M6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+</item>

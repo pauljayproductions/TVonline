@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Update 1-12-16</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>NAT. GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT. GEOGRAPHIC </link>
+</item>
+<item>
+<title>NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD </link>
+</item>
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
+</item>
+<item>
+<title>DISCOVERY SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE </link>
+</item>
